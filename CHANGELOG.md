@@ -14,6 +14,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added a preference and command line option to specify the version control system search order
 - added .editorconfig file
 - added .gitignore file
+- started modularizing the code
+
+### Fixed
+- fixed some GTK deprecation warnings
 
 ### Changed
 - convert to Python 3
